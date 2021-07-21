@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1350" height="1350" viewBox="0 0 1350 1350">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffdfa;
+        stroke: #333;
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #4e88e6;
+      }
+    </style>
+  </defs>
+  <path id="多角形_1" data-name="多角形 1" class="cls-1" d="M1004.35,629.524l218.14,218.13-79.85,297.976-297.989,79.85L626.512,1007.35l79.849-297.98Z"/>
+  <path id="多角形_1-2" data-name="多角形 1" class="cls-1" d="M858.349,79.524l218.141,218.13L996.639,595.63,698.651,675.476,480.512,457.346,560.361,159.37Z"/>
+  <path id="多角形_1-3" data-name="多角形 1" class="cls-2" d="M460.349,482.524l218.139,218.13L598.639,998.63l-297.988,79.85L82.512,860.346,162.361,562.37Z"/>
+</svg>
