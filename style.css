@@ -54,31 +54,6 @@ nav{
   opacity: 0;
   transition: all .3s;
 }
-@keyframes opener{
-  0%{
-    margin: 5px auto;
-  }
-  50%{
-    margin: -3px auto;
-    transform: rotate(0);
-  }
-  100%{
-    transform: rotate(45deg);
-  }
-}
-@keyframes closer{
-  0%{
-    transform: rotate(45deg);
-    margin: -3px auto;
-  }
-  50%{
-    margin: -3px auto;
-    transform: rotate(0);
-  }
-  100%{
-    margin: 5px auto;
-  }
-}
 
 main{
   width: 100vw;
@@ -186,4 +161,30 @@ footer p{
   text-align: center;
   font-size: 1rem;
   margin-bottom: 2.5vh;
+}
+
+@keyframes opener{
+  0%{
+    margin: 5px auto;
+  }
+  50%{
+    margin: -3px auto;
+    transform: rotate(0);
+  }
+  100%{
+    transform: rotate(45deg);
+  }
+}
+@keyframes closer{
+  0%{
+    transform: rotate(45deg);
+    margin: -3px auto;
+  }
+  50%{
+    margin: -3px auto;
+    transform: rotate(0);
+  }
+  100%{
+    margin: 5px auto;
+  }
 }
